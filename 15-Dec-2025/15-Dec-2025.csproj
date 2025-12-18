@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_15_Dec_2025</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="L2\" />
+    <None Remove="L1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="L2\Set2.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="L2\" />
+    <Folder Include="L1\" />
+  </ItemGroup>
+</Project>

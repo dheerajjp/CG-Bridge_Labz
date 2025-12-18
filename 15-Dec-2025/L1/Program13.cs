@@ -1,0 +1,14 @@
+using System;
+
+class SquareSide
+{
+    public static void Run()
+    {
+        Console.Write("Enter perimeter: ");
+        double perimeter = double.Parse(Console.ReadLine());
+
+        double side = perimeter / 4;
+
+        Console.WriteLine($"The length of the side is {side} whose perimeter is {perimeter}");
+    }
+}
