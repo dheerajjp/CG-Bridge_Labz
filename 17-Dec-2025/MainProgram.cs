@@ -25,7 +25,43 @@ class MainProgram
                     EvenOdd.Run();
                     break;
 
+
+                case 3:
+                    Multiples.Run();
+                    break;
+
+                case 4:
+                    IndexTo10.Run();
+                    break;
+
+                case 5:
+                    SixToNine.Run();
+                    break;
+
+                case 6:
+                    PlayerHeight.Run();
+                    break;
+
+                case 7:
+                    EvenOrOdd.Run();
+                    break;
+
+                case 8:
+                    Factors.Run();
+                    break;
+
+                case 9:
+
+                    CopyArray.Run();
+                        break;
+
+                case 10:
+                    FizzBuzz.Run();
+                    break;
+
+
             }
+
             
             }
     }
