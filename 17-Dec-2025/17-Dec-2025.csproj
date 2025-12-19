@@ -10,8 +10,10 @@
 
   <ItemGroup>
     <None Remove="L1\" />
+    <None Remove="L2\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="L1\" />
+    <Folder Include="L2\" />
   </ItemGroup>
 </Project>
