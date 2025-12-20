@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Dec-2025", "features\cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Dec-2025", "features\core-programming\control-flows\16-Dec-2025\16-Dec-2025.csproj", "{286BEDC1-0899-4C66-BCDD-547905CE564C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Dec-2025", "features\core-programming\arrays\17-Dec-2025\17-Dec-2025.csproj", "{F81EBD84-E9A0-440B-9B5E-BA7B68C05B83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Dec-2025", "features\core-programming\arrays\17-Dec-2025\17-Dec-2025.csproj", "{035C0A79-A570-4245-BDD4-6FD6DFA828FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{286BEDC1-0899-4C66-BCDD-547905CE564C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{286BEDC1-0899-4C66-BCDD-547905CE564C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{286BEDC1-0899-4C66-BCDD-547905CE564C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F81EBD84-E9A0-440B-9B5E-BA7B68C05B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F81EBD84-E9A0-440B-9B5E-BA7B68C05B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F81EBD84-E9A0-440B-9B5E-BA7B68C05B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F81EBD84-E9A0-440B-9B5E-BA7B68C05B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035C0A79-A570-4245-BDD4-6FD6DFA828FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035C0A79-A570-4245-BDD4-6FD6DFA828FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035C0A79-A570-4245-BDD4-6FD6DFA828FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035C0A79-A570-4245-BDD4-6FD6DFA828FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
