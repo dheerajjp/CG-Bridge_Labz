@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Dec-2025", "features\cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Dec-2025", "features\core-programming\programming-elements\15-Dec-2025\15-Dec-2025.csproj", "{EA406811-6975-4CC9-96F6-0A2F954C6114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Dec-2025", "features\core-programming\arrays\17-Dec-2025\17-Dec-2025.csproj", "{34BB1035-E48E-4963-8EB5-1C2003531FCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Dec-2025", "features\core-programming\arrays\17-Dec-2025\17-Dec-2025.csproj", "{655E58EC-4C8B-4FE3-996B-EF58E6AD6D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{EA406811-6975-4CC9-96F6-0A2F954C6114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA406811-6975-4CC9-96F6-0A2F954C6114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA406811-6975-4CC9-96F6-0A2F954C6114}.Release|Any CPU.Build.0 = Release|Any CPU
-		{34BB1035-E48E-4963-8EB5-1C2003531FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34BB1035-E48E-4963-8EB5-1C2003531FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34BB1035-E48E-4963-8EB5-1C2003531FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34BB1035-E48E-4963-8EB5-1C2003531FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655E58EC-4C8B-4FE3-996B-EF58E6AD6D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655E58EC-4C8B-4FE3-996B-EF58E6AD6D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655E58EC-4C8B-4FE3-996B-EF58E6AD6D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655E58EC-4C8B-4FE3-996B-EF58E6AD6D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

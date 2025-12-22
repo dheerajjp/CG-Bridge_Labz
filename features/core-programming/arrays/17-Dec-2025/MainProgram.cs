@@ -53,16 +53,33 @@ class MainProgram
                 case 9:
 
                     CopyArray.Run();
-                        break;
-
-                case 10:
-                    FizzBuzz.Run();
                     break;
 
 
             }
 
             
+         }
+        if (n == 2)
+        {
+            Console.WriteLine("Enter choice of program");
+            int choice = int.Parse(Console.ReadLine());
+
+            switch (choice)
+            {
+
+                case 1:
+                    Bonus.Run();
+                    break;
+
+                case 2:
+                    AgeAndHeight.Run();
+                    break;
+
+                case 3:
+                    SumOfDigits.Run();
+                    break;
             }
+         }
     }
 }
